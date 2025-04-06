@@ -1,0 +1,16 @@
+O pensamento computacional é um processo de resolução de problemas que envolve a aplicação de conceitos da ciência da computação. Não se trata de aprender a programar, mas sim de desenvolver habilidades de pensamento que podem ser aplicadas em diversas áreas da vida.
+
+Os quatro pilares principais do pensamento computacional são:
+
+Decomposição: Quebrar um problema complexo em partes menores e mais gerenciáveis.
+Reconhecimento de padrões: Identificar semelhanças e diferenças entre problemas.
+Abstração: Focar nas informações relevantes e ignorar os detalhes desnecessários.
+Algoritmos: Desenvolver sequências de passos para solucionar um problema.
+Em resumo, o pensamento computacional ajuda a:
+
+Desenvolver o raciocínio lógico.
+Organizar o pensamento de forma estruturada.
+Resolver problemas de maneira eficiente e criativa.
+Compreender melhor como a tecnologia funciona.
+Desenvolver habilidades importantes para o século XXI.
+O pensamento computacional pode ser ensinado e praticado através de diversas atividades, com ou sem o uso de computadores (atividades "plugadas" e "desplugadas"). É uma habilidade valiosa para pessoas de todas as idades e áreas de atuação.
