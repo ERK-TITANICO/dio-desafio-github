@@ -1,0 +1,52 @@
+cd = muda o diretório
+
+dir = lista os arquivos
+ls = lista os arquivos
+
+mkdir = cria um novo diretório
+
+del = deleta arquivos
+
+rmdir = remove diretórios
+
+ls -a = mostra diretórios ocultos
+
+cd / = volta para pasta raiz (base)
+
+cd .. = volta para pasta anterior
+
+cls = limpa tela
+clean = limpa tela
+ctrl + L = atalho para limpar a tela (bash)
+
+cd + tab = completa o nome do diretório
+
+mkdir + nome da pasta = cria uma pasta nova
+
+echo = printa oq for escrito
+ex: echo hello >
+hello
+
+______________________________________________________________
+
+git init = cria um repositorio
+
+git status = mostra o estado do repositorio
+
+mv = move o arquivo de lugar
+
+git restore = volta o arquivo para o staged
+
+PARA LINKAR O GIT COMO O REPOSITORIO DO GITHUB
+
+git remote add origin https://github.com/ERK-TITANICO/dio-desafio-github.git
+
+git add * = para adicionar os arquivos
+
+git commit = para commitar os arquivos
+
+git push = para enviar os arquivos
+
+PARA CLONAR DIRETORIOS
+
+git clone (link do diretorio)
